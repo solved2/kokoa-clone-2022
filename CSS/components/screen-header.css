@@ -14,7 +14,10 @@
 
 .screen-header__icons span {
   margin-left: 25px;
-  position: relative;
+}
+
+.screen-header__cog{
+  position:relative;
 }
 
 .cog-notification {
@@ -26,6 +29,6 @@
   justify-content: center;
   align-items: center;
   position: absolute;
-  left: 73px;
-  bottom: 25px;
+  left: 1px;
+  bottom: 20px;
 }

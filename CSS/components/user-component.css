@@ -54,3 +54,22 @@
   display:block;
   margin-bottom:10px;
 }
+
+.user-component__subtitle-mark{
+  margin-left:6px;
+  font-size:12px;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  width:15px;
+  height:15px;
+  color:tomato;
+  border:1.5px solid tomato;
+  border-radius: 10px;
+  font-weight: 800;
+}
+
+.user-component__user-info{
+  display:flex;
+  align-items:flex-end;
+}
