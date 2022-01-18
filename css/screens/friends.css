@@ -52,7 +52,7 @@
   display:flex;
   justify-content: center;
   align-items: center;
-  font-size:122px;
+  font-size:80px;
   animation: hideSplashScreen 0.4s ease-in-out forwards;
   animation-delay:1s;
 }
